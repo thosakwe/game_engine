@@ -1,0 +1,7 @@
+name: axe
+version: 0.0.0
+dependencies:
+    color: ^2.0.0
+    game_loop: ^0.9.4
+    sync: ^0.1.0
+    vector_math: ^2.0.0
